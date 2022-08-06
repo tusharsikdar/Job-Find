@@ -1,4 +1,0 @@
-#Mon Aug 01 00:29:30 BDT 2022
-base.0=/Users/tushar/StudioProjects/day24/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
